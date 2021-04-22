@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=suarez12138&count_private=true&theme=dark&repo=github-readme-stats&layout=compact" />
 </a>
